@@ -1,5 +1,46 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+Project Deployed in Vercel: [Auth App JWT]()
+
+Nextjs 14 Project using:
+
+- Nextjs 14 Features
+  - Src and App Folder
+  - Import Alias (@)
+  - .env.local and .env
+  - Metadata
+  - Client Side
+    - Google Fonts and TailwindCSS
+    - Link and Image Componente
+    - Layout and Page Structure
+    - Client Routes
+    - Dynamic Routes ([id] folder)
+    - Async GET in page.tsx -> Server Components
+    - Suspense React Component
+    - Page not-found.tsx, loading.tsx and notFound() Function
+    - useRouter(), useParam() and useSearchParams Hooks
+    - Revalidate
+    - Server Actions
+    - Route Groups
+  - Server Side
+    - API Routes using Route Handlers API -> [Route Handlers (cookies and headers)](https://nextjs.org/docs/app/building-your-application/routing/route-handlers)
+    - NextResponse and NextRequest -> [NextResponse and NextRequest](https://nextjs.org/docs/app/api-reference/functions/next-response)
+    - params and searchParams in Route Handlers API
+  - Middlewares
+- JWT Authentication
+  - JWT Token
+  - Cookies
+  - Middlewares
+  - Protected Routes
+  - Logout
+- ESLint
+- Prisma ORM
+  - Types from Prisma and PostgreSQL Database
+
+### Links Projects
+
+- [FaztCode - Nextjs Autenticación con Json Web Tokens (JWT), y Rutas Protegidas con Middlewares](https://www.youtube.com/watch?v=zBbqrcvdJjQ)
+
 ## Getting Started
 
 First, run the development server:
