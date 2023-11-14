@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-Project Deployed in Vercel: [Auth App JWT]()
+Project Deployed in Vercel: [Auth App JWT](https://nextjs14-auth-faztcode.vercel.app/)
 
 Nextjs 14 Project using:
 
